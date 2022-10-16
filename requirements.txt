@@ -18,7 +18,7 @@ gevent-websocket==0.9.3
 greenlet==0.4.5
 ipaddr==2.1.11
 itsdangerous==0.24
-lxml==3.4.1
+lxml==4.9.1
 maxminddb==1.1.1
 netifaces==0.10.4
 passlib==1.6.2
